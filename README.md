@@ -10,3 +10,7 @@
 
 
 
+# Python
+
+- [2022.01.04](https://github.com/jjuunnoo/TIL/blob/master/python/python_220104.md) : 문자열 데이터 format 함수, f-formatting, 그 외 함수, 리스트 생성 / 인덱싱
+
