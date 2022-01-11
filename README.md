@@ -8,8 +8,9 @@
 
 ## GIT/GITHUB
 
-- [2022.01.05](https://github.com/jjuunnoo/TIL/blob/master/Git/Git_220105.md) : Git, Github 기본 개념, 터미널 명령어, Git 기본 명령어
-- [2022.01.06](https://github.com/jjuunnoo/TIL/blob/master/Git/Git_220106.md) : git ignore, git clone, git pull
+- [2022.01.05](https://github.com/jjuunnoo/TIL/blob/master/Git/Git_220105.md) : Git, Github 기본 개념, 터미널 명령어, Git 명령어
+- [2022.01.06](https://github.com/jjuunnoo/TIL/blob/master/Git/Git_220106.md) : Git 명령어 (ignore, clone, pull)
+- [2022.01.07](https://github.com/jjuunnoo/TIL/blob/master/Git/Git_220107.md) : Git 명령어 (branch, merge, restore, reset, revert)
 
 
 
