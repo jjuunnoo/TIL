@@ -2,7 +2,7 @@
 
 # Today I Learned
 
-- 학습 내용 기록
+학습 내용 기록
 
 
 
@@ -19,3 +19,4 @@
 - [2022.01.04](https://github.com/jjuunnoo/TIL/blob/master/python/python_220104.md) : 문자열 데이터 format 함수, f-formatting, 그 외 함수, 리스트 생성 / 인덱싱
 - [2022.01.10](https://github.com/jjuunnoo/TIL/blob/master/python/python_220110.md) : 리스트 활용
 
+- [2022.01.11](https://github.com/jjuunnoo/TIL/blob/master/python/python_220111.md) : 튜플, 딕셔너리, 집합
