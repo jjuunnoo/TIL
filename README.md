@@ -20,3 +20,4 @@
 - [2022.01.10](https://github.com/jjuunnoo/TIL/blob/master/python/python_220110.md) : 리스트 활용
 - [2022.01.11](https://github.com/jjuunnoo/TIL/blob/master/python/python_220111.md) : 튜플, 딕셔너리, 집합
 - [2022.01.12](https://github.com/jjuunnoo/TIL/blob/master/python/python_220112.md) : 제어문(if, while, for), 함수
+- [2022.01.13](https://github.com/jjuunnoo/TIL/blob/master/python/python_220113.md) : 함수, 파일 생성, 쓰기, 읽기
