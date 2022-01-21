@@ -23,3 +23,4 @@
 - [2022.01.13](https://github.com/jjuunnoo/TIL/blob/master/python/python_220113.md) : 함수, 파일 생성, 쓰기, 읽기
 - [2022.01.14](https://github.com/jjuunnoo/TIL/blob/master/python/python_220114.md) : 클래스 생성, 상속
 - [2022.01.18](https://github.com/jjuunnoo/TIL/blob/master/python/python_220118.md) : 예외처리, 함수 몇가지, 라이브러리(pickle)
+- [2022.01.19](https://github.com/jjuunnoo/TIL/blob/master/python/python_220119.md) : 라이브러리(shutil, glob, tempfile, time, random)
