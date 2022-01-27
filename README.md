@@ -24,3 +24,6 @@
 - [2022.01.14](https://github.com/jjuunnoo/TIL/blob/master/python/python_220114.md) : 클래스 생성, 상속
 - [2022.01.18](https://github.com/jjuunnoo/TIL/blob/master/python/python_220118.md) : 예외처리, 함수 몇가지, 라이브러리(pickle)
 - [2022.01.19](https://github.com/jjuunnoo/TIL/blob/master/python/python_220119.md) : 라이브러리(shutil, glob, tempfile, time, random)
+- [2022.01.20](https://github.com/jjuunnoo/TIL/blob/master/python/python_220120.md) : numpy 기본
+- [2022.01.21](https://github.com/jjuunnoo/TIL/blob/master/python/python_220121.md) : numpy 기본2
+- [2022.01.24](https://github.com/jjuunnoo/TIL/blob/master/python/python_220124.md) : pandas 기본
