@@ -27,3 +27,6 @@
 - [2022.01.20](https://github.com/jjuunnoo/TIL/blob/master/python/python_220120.md) : numpy 기본
 - [2022.01.21](https://github.com/jjuunnoo/TIL/blob/master/python/python_220121.md) : numpy 기본2
 - [2022.01.24](https://github.com/jjuunnoo/TIL/blob/master/python/python_220124.md) : pandas 기본
+- [2022.01.25](https://github.com/jjuunnoo/TIL/blob/master/python/python_220125.md) : pandas 기본2
+- [2022.01.26](https://github.com/jjuunnoo/TIL/blob/master/python/python_220126.md) : pandas 기본3
+- [2022.01.27](https://github.com/jjuunnoo/TIL/blob/master/python/python_220127.md) : 시각화
